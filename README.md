@@ -1,2 +1,5 @@
 # AV3-Assist-Release
-Releases of AV3-Assist
+![Image](https://img.shields.io/badge/Version-0.1.1-green)  
+
+Releases of AV3-Assist  
+
